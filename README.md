@@ -48,7 +48,7 @@ AI-based skin lesion classification system that analyzes uploaded skin images.
 
 **Tech:** Python • TensorFlow • Keras • MobileNetV2 • FastAPI • React.js • NumPy • Pandas
 
-[View Project →]([https://github.com/Shreyas5347/skin-disease-detector](https://github.com/Shreyas5347/AI-Skin-Disease-Detector))
+[View Project →]([https://github.com/Shreyas5347/skin-disease-detector])
 
 ---
 
