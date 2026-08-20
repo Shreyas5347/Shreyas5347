@@ -124,9 +124,9 @@ My current focus is on understanding how AI models can be integrated into reliab
 
 ## 📫 Connect With Me
 
--  LinkedIn: [Shreyas Rajput](www.linkedin.com/in/shreyas-rajput-backend)
--  Email: YOUR_EMAIL
--  GitHub: [@Shreyas5347](https://github.com/Shreyas5347)
+-  LinkedIn: [Linkedin](www.linkedin.com/in/shreyas-rajput-backend)
+-  Email: rajputshreyas321@gmail.com
+-  GitHub: [Shreyas5347](https://github.com/Shreyas5347)
 
 ---
 
